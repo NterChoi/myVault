@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d4917d1003a30d5e",
+        "id": "db1767daff2689fa",
         "type": "tabs",
         "children": [
           {
-            "id": "220ea4397743511e",
+            "id": "6eba35fecdf3be28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "관계(Relationship) 정의.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b5d59b63f13f5875",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5366980ba8ca36cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관계(Relationship) 정의 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban/Python.md"
               }
             }
           }
@@ -87,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "19b59a143bd1647e",
@@ -104,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관계(Relationship) 정의.md",
+                "file": "Kanban/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관계(Relationship) 정의.md",
+                "file": "Kanban/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관계(Relationship) 정의.md"
+                "file": "Kanban/Python.md"
               }
             }
           },
@@ -199,10 +178,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "220ea4397743511e",
+  "active": "6eba35fecdf3be28",
   "lastOpenFiles": [
+    "Data Modeling/관계(Relationship) 정의.md",
+    "Kanban",
     "관계의 정의.md",
-    "관계(Relationship) 정의.md",
     "선택 사양.md",
     "관계(Relationship) 정의 1.md",
     "Templates/Insert_Callout.md",
@@ -216,13 +196,13 @@
     "Python/숫자형 자료형.md",
     "Data Modeling/후보 엔티티 선정.md",
     "정보통신/데이터의 부호화.md",
-    "정보통신.md",
+    "Kanban/정보통신.md",
     "정보통신/비동기 통신.md",
     "정보통신",
     "무제 파일.md",
-    "Data Modeling.md",
-    "Python.md",
-    "MongoDB.md",
+    "Kanban/Data Modeling.md",
+    "Kanban/Python.md",
+    "Kanban/MongoDB.md",
     "Bible Of Java/src/context.mdb",
     "context.mdb",
     "Context",
@@ -236,11 +216,9 @@
     "202309161203.md",
     "Data Modeling",
     "Python",
-    "Python/문자열 자료형.md",
     "무제 파일 2.canvas",
     "무제 파일.canvas",
     "Pasted image 20230913132022.png",
-    "무제 파일 1.canvas",
-    "Context/spacesLastSync.log"
+    "무제 파일 1.canvas"
   ]
 }
