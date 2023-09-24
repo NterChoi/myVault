@@ -20,6 +20,12 @@ kanban-plugin: basic
 - [ ] [[관계(Relationship) 정의]]
 
 
+## 논리 데이터 모델링
+
+- [ ] [[논리 데이터 모델링 이해]]
+- [ ] [[속성 정의]]
+
+
 
 
 %% kanban:settings

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "db1767daff2689fa",
+        "id": "af990ed9c4c99703",
         "type": "tabs",
         "children": [
           {
-            "id": "6eba35fecdf3be28",
+            "id": "748628bb147a7c22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/문자열 자료형.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/문자열 자료형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/문자열 자료형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/문자열 자료형.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,10 +172,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6eba35fecdf3be28",
+  "active": "e72e2f2e4ff96d0f",
   "lastOpenFiles": [
-    "Kanban/Python.md",
+    "Data Modeling/논리 데이터 모델링 이해.md",
+    "Kanban/Data Modeling.md",
     "Python/문자열 자료형.md",
+    "Kanban/Python.md",
     "Python/숫자형 자료형.md",
     "Kanban/MongoDB.md",
     "MongoDB",
@@ -206,7 +200,6 @@
     "정보통신/비동기 통신.md",
     "정보통신",
     "무제 파일.md",
-    "Kanban/Data Modeling.md",
     "Bible Of Java/src/context.mdb",
     "context.mdb",
     "Context",
