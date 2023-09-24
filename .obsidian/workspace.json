@@ -11,8 +11,12 @@
             "id": "748628bb147a7c22",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bible Of Java/src/인스턴스의 생성과 사용.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bible Of Java/src/인스턴스의 생성과 사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bible Of Java/src/인스턴스의 생성과 사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bible Of Java/src/인스턴스의 생성과 사용.md"
+              }
             }
           },
           {
@@ -172,8 +180,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e72e2f2e4ff96d0f",
+  "active": "748628bb147a7c22",
   "lastOpenFiles": [
+    "Bible Of Java/객체지향 프로그래밍 I.md",
+    "Bible Of Java/src/객체와 인스턴스.md",
+    "Bible Of Java/src/객체의 구성요소 - 속성과 기능.md",
     "Data Modeling/논리 데이터 모델링 이해.md",
     "Kanban/Data Modeling.md",
     "Python/문자열 자료형.md",
@@ -188,10 +199,7 @@
     "관계(Relationship) 정의 1.md",
     "Templates/Insert_Callout.md",
     "Bible Of Java/src/인스턴스의 생성과 사용.md",
-    "Bible Of Java/객체지향 프로그래밍 I.md",
     "Templates",
-    "Bible Of Java/src/객체의 구성요소 - 속성과 기능.md",
-    "Bible Of Java/src/객체와 인스턴스.md",
     "Bible Of Java/src/클래스와 객체의 정의와 용도.md",
     "정보통신/Pasted image 20230920125803.png",
     "Data Modeling/후보 엔티티 선정.md",
