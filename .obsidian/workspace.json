@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Of Java/src/인스턴스의 생성과 사용.md",
-                "mode": "preview",
+                "file": "Bible Of Java/src/객체 배열.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible Of Java/src/인스턴스의 생성과 사용.md",
+                "file": "Bible Of Java/src/객체 배열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible Of Java/src/인스턴스의 생성과 사용.md",
+                "file": "Bible Of Java/src/객체 배열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible Of Java/src/인스턴스의 생성과 사용.md"
+                "file": "Bible Of Java/src/객체 배열.md"
               }
             }
           },
@@ -180,9 +180,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "748628bb147a7c22",
+  "active": "e72e2f2e4ff96d0f",
   "lastOpenFiles": [
     "Bible Of Java/객체지향 프로그래밍 I.md",
+    "Bible Of Java/src/객체 배열.md",
+    "Bible Of Java/src/인스턴스의 생성과 사용.md",
     "Bible Of Java/src/객체와 인스턴스.md",
     "Bible Of Java/src/객체의 구성요소 - 속성과 기능.md",
     "Data Modeling/논리 데이터 모델링 이해.md",
@@ -198,7 +200,6 @@
     "선택 사양.md",
     "관계(Relationship) 정의 1.md",
     "Templates/Insert_Callout.md",
-    "Bible Of Java/src/인스턴스의 생성과 사용.md",
     "Templates",
     "Bible Of Java/src/클래스와 객체의 정의와 용도.md",
     "정보통신/Pasted image 20230920125803.png",
@@ -217,7 +218,6 @@
     "Bible Of Java",
     "2023-09-14.md",
     "2023-09-13.md",
-    "202309130737.md",
     "Data Modeling",
     "무제 파일 2.canvas",
     "무제 파일.canvas",
