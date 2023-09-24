@@ -11,9 +11,11 @@
             "id": "6eba35fecdf3be28",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/Python.md"
+                "file": "Python/문자열 자료형.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Python.md",
+                "file": "Python/문자열 자료형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Python.md",
+                "file": "Python/문자열 자료형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/Python.md"
+                "file": "Python/문자열 자료형.md"
               }
             }
           },
@@ -180,9 +182,9 @@
   },
   "active": "6eba35fecdf3be28",
   "lastOpenFiles": [
+    "Kanban/Python.md",
     "Python/문자열 자료형.md",
     "Python/숫자형 자료형.md",
-    "Kanban/Python.md",
     "Kanban/MongoDB.md",
     "MongoDB",
     "Data Modeling/관계(Relationship) 정의.md",
