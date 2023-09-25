@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Of Java/src/객체 배열.md",
+                "file": "Data Modeling/논리 데이터 모델링 이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "19b59a143bd1647e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible Of Java/src/객체 배열.md",
+                "file": "Data Modeling/논리 데이터 모델링 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible Of Java/src/객체 배열.md",
+                "file": "Data Modeling/논리 데이터 모델링 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible Of Java/src/객체 배열.md"
+                "file": "Data Modeling/논리 데이터 모델링 이해.md"
               }
             }
           },
@@ -180,21 +181,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e72e2f2e4ff96d0f",
+  "active": "748628bb147a7c22",
   "lastOpenFiles": [
+    "Kanban/Data Modeling.md",
+    "Data Modeling/관계(Relationship) 정의.md",
     "Bible Of Java/객체지향 프로그래밍 I.md",
     "Bible Of Java/src/객체 배열.md",
     "Bible Of Java/src/인스턴스의 생성과 사용.md",
     "Bible Of Java/src/객체와 인스턴스.md",
     "Bible Of Java/src/객체의 구성요소 - 속성과 기능.md",
     "Data Modeling/논리 데이터 모델링 이해.md",
-    "Kanban/Data Modeling.md",
     "Python/문자열 자료형.md",
     "Kanban/Python.md",
     "Python/숫자형 자료형.md",
     "Kanban/MongoDB.md",
     "MongoDB",
-    "Data Modeling/관계(Relationship) 정의.md",
     "Kanban",
     "관계의 정의.md",
     "선택 사양.md",
