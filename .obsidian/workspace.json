@@ -11,12 +11,8 @@
             "id": "45ff1a27405a6743",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible Of Java/src/객체 배열.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible Of Java/src/객체 배열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible Of Java/src/객체 배열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bible Of Java/src/객체 배열.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,9 +174,10 @@
   },
   "active": "45ff1a27405a6743",
   "lastOpenFiles": [
+    "클래스의 또 다른 정의.md",
     "Bible Of Java/객체지향 프로그래밍 I.md",
-    "Bible Of Java/src/인스턴스의 생성과 사용.md",
     "Bible Of Java/src/객체 배열.md",
+    "Bible Of Java/src/인스턴스의 생성과 사용.md",
     "데이터 모델링.md",
     "Data Modeling/논리 데이터 모델링 이해.md",
     "Kanban/Data Modeling.md",
@@ -217,7 +210,6 @@
     "Bible Of Java/src",
     "Bible Of Java",
     "2023-09-14.md",
-    "2023-09-13.md",
     "Data Modeling",
     "무제 파일 2.canvas",
     "무제 파일.canvas",
