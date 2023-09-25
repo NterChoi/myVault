@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02b410e67afc3dea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터 모델링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Modeling/논리 데이터 모델링 이해.md",
+                "file": "데이터 모델링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Modeling/논리 데이터 모델링 이해.md",
+                "file": "데이터 모델링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Modeling/논리 데이터 모델링 이해.md"
+                "file": "데이터 모델링.md"
               }
             }
           },
@@ -181,8 +194,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "748628bb147a7c22",
+  "active": "02b410e67afc3dea",
   "lastOpenFiles": [
+    "Data Modeling/논리 데이터 모델링 이해.md",
+    "데이터 모델링.md",
     "Kanban/Data Modeling.md",
     "Data Modeling/관계(Relationship) 정의.md",
     "Bible Of Java/객체지향 프로그래밍 I.md",
@@ -190,7 +205,6 @@
     "Bible Of Java/src/인스턴스의 생성과 사용.md",
     "Bible Of Java/src/객체와 인스턴스.md",
     "Bible Of Java/src/객체의 구성요소 - 속성과 기능.md",
-    "Data Modeling/논리 데이터 모델링 이해.md",
     "Python/문자열 자료형.md",
     "Kanban/Python.md",
     "Python/숫자형 자료형.md",
@@ -209,7 +223,6 @@
     "Kanban/정보통신.md",
     "정보통신/비동기 통신.md",
     "정보통신",
-    "무제 파일.md",
     "Bible Of Java/src/context.mdb",
     "context.mdb",
     "Context",
