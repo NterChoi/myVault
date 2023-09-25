@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "af990ed9c4c99703",
+        "id": "2b831d883ccf2c20",
         "type": "tabs",
         "children": [
           {
-            "id": "748628bb147a7c22",
+            "id": "45ff1a27405a6743",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Modeling/논리 데이터 모델링 이해.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02b410e67afc3dea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터 모델링.md",
+                "file": "Bible Of Java/src/인스턴스의 생성과 사용.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "19b59a143bd1647e",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 모델링.md",
+                "file": "Bible Of Java/src/인스턴스의 생성과 사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 모델링.md",
+                "file": "Bible Of Java/src/인스턴스의 생성과 사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 모델링.md"
+                "file": "Bible Of Java/src/인스턴스의 생성과 사용.md"
               }
             }
           },
@@ -194,13 +180,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "02b410e67afc3dea",
+  "active": "45ff1a27405a6743",
   "lastOpenFiles": [
-    "Data Modeling/논리 데이터 모델링 이해.md",
+    "Bible Of Java/객체지향 프로그래밍 I.md",
     "데이터 모델링.md",
+    "Data Modeling/논리 데이터 모델링 이해.md",
     "Kanban/Data Modeling.md",
     "Data Modeling/관계(Relationship) 정의.md",
-    "Bible Of Java/객체지향 프로그래밍 I.md",
     "Bible Of Java/src/객체 배열.md",
     "Bible Of Java/src/인스턴스의 생성과 사용.md",
     "Bible Of Java/src/객체와 인스턴스.md",
