@@ -11,8 +11,12 @@
             "id": "45ff1a27405a6743",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "클래스의 또 다른 정의.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "클래스의 또 다른 정의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "클래스의 또 다른 정의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "클래스의 또 다른 정의.md"
+              }
             }
           },
           {
@@ -174,8 +182,8 @@
   },
   "active": "45ff1a27405a6743",
   "lastOpenFiles": [
-    "클래스의 또 다른 정의.md",
     "Bible Of Java/객체지향 프로그래밍 I.md",
+    "클래스의 또 다른 정의.md",
     "Bible Of Java/src/객체 배열.md",
     "Bible Of Java/src/인스턴스의 생성과 사용.md",
     "데이터 모델링.md",
