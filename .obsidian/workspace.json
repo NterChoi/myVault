@@ -189,7 +189,9 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "zk-prefixer:새로운 유니크 노트 생성": false
+      "zk-prefixer:새로운 유니크 노트 생성": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "02b410e67afc3dea",
