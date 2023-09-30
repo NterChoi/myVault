@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2b831d883ccf2c20",
+        "id": "af990ed9c4c99703",
         "type": "tabs",
         "children": [
           {
-            "id": "45ff1a27405a6743",
+            "id": "748628bb147a7c22",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "최신 컴퓨터 구조.md"
+                "file": "Data Modeling/논리 데이터 모델링 이해.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02b410e67afc3dea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터 모델링.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "최신 컴퓨터 구조.md",
+                "file": "데이터 모델링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "최신 컴퓨터 구조.md",
+                "file": "데이터 모델링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "최신 컴퓨터 구조.md"
+                "file": "데이터 모델링.md"
               }
             }
           },
@@ -178,22 +193,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e72e2f2e4ff96d0f",
+  "active": "02b410e67afc3dea",
   "lastOpenFiles": [
-    "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
     "최신 컴퓨터 구조.md",
     "Book/최신 컴퓨터 구조/학습목표_서론.md",
-    "Book.md",
-    "Bible Of Java/src/클래스의 또 다른 정의.md",
+    "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
     "Book/최신 컴퓨터 구조",
     "Book",
+    "Book.md",
+    "Bible Of Java/src/클래스의 또 다른 정의.md",
+    "Data Modeling/논리 데이터 모델링 이해.md",
     "데이터 모델링.md",
+    "Kanban/Data Modeling.md",
+    "Data Modeling/관계(Relationship) 정의.md",
     "Bible Of Java/객체지향 프로그래밍 I.md",
     "Bible Of Java/src/객체 배열.md",
     "Bible Of Java/src/인스턴스의 생성과 사용.md",
-    "Data Modeling/논리 데이터 모델링 이해.md",
-    "Kanban/Data Modeling.md",
-    "Data Modeling/관계(Relationship) 정의.md",
     "Bible Of Java/src/객체와 인스턴스.md",
     "Bible Of Java/src/객체의 구성요소 - 속성과 기능.md",
     "Python/문자열 자료형.md",
