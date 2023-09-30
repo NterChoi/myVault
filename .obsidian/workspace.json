@@ -11,9 +11,11 @@
             "id": "45ff1a27405a6743",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "최신 컴퓨터 구조.md"
+                "file": "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "최신 컴퓨터 구조.md",
+                "file": "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "최신 컴퓨터 구조.md",
+                "file": "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "최신 컴퓨터 구조.md"
+                "file": "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md"
               }
             }
           },
@@ -181,12 +183,12 @@
   },
   "active": "45ff1a27405a6743",
   "lastOpenFiles": [
-    "데이터 모델링.md",
     "최신 컴퓨터 구조.md",
+    "Book/최신 컴퓨터 구조/학습목표_서론.md",
+    "데이터 모델링.md",
     "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
     "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md",
     "Excalidraw",
-    "Book/최신 컴퓨터 구조/학습목표_서론.md",
     "Book.md",
     "Bible Of Java/src/클래스의 또 다른 정의.md",
     "Book/최신 컴퓨터 구조",
