@@ -11,11 +11,9 @@
             "id": "45ff1a27405a6743",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "클래스의 또 다른 정의.md",
-                "mode": "preview",
-                "source": false
+                "file": "최신 컴퓨터 구조.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "클래스의 또 다른 정의.md",
+                "file": "최신 컴퓨터 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "클래스의 또 다른 정의.md",
+                "file": "최신 컴퓨터 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "클래스의 또 다른 정의.md"
+                "file": "최신 컴퓨터 구조.md"
               }
             }
           },
@@ -180,13 +178,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45ff1a27405a6743",
+  "active": "e72e2f2e4ff96d0f",
   "lastOpenFiles": [
+    "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
+    "최신 컴퓨터 구조.md",
+    "Book/최신 컴퓨터 구조/학습목표_서론.md",
+    "Book.md",
+    "Bible Of Java/src/클래스의 또 다른 정의.md",
+    "Book/최신 컴퓨터 구조",
+    "Book",
+    "데이터 모델링.md",
     "Bible Of Java/객체지향 프로그래밍 I.md",
-    "클래스의 또 다른 정의.md",
     "Bible Of Java/src/객체 배열.md",
     "Bible Of Java/src/인스턴스의 생성과 사용.md",
-    "데이터 모델링.md",
     "Data Modeling/논리 데이터 모델링 이해.md",
     "Kanban/Data Modeling.md",
     "Data Modeling/관계(Relationship) 정의.md",
@@ -208,17 +212,11 @@
     "Data Modeling/후보 엔티티 선정.md",
     "정보통신/데이터의 부호화.md",
     "Kanban/정보통신.md",
-    "정보통신/비동기 통신.md",
     "정보통신",
     "Bible Of Java/src/context.mdb",
     "context.mdb",
     "Context",
-    "관계(Relationship) 정의 프로토타입 1.md",
-    "Bible Of Java/src/기본형 매개변수와 참조형 매개변수.md",
     "Bible Of Java/src",
-    "Bible Of Java",
-    "2023-09-14.md",
-    "Data Modeling",
     "무제 파일 2.canvas",
     "무제 파일.canvas",
     "Pasted image 20230913132022.png",
