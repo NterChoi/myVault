@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e32a5506e49e00e2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +191,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45ff1a27405a6743",
+  "active": "e32a5506e49e00e2",
   "lastOpenFiles": [
     "Bible Of Java/객체지향 프로그래밍 I.md",
     "클래스의 또 다른 정의.md",
