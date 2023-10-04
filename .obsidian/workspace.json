@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/문자열 자료형.md",
+                "file": "Python/숫자형 자료형.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "19b59a143bd1647e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/문자열 자료형.md",
+                "file": "Python/숫자형 자료형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/문자열 자료형.md",
+                "file": "Python/숫자형 자료형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/문자열 자료형.md"
+                "file": "Python/숫자형 자료형.md"
               }
             }
           },
@@ -184,6 +183,10 @@
   "active": "fd554cea1c3d8c93",
   "lastOpenFiles": [
     "Kanban/Python.md",
+    "Kanban/MongoDB.md",
+    "Kanban/Data Modeling.md",
+    "데이터 모델링 개요.md",
+    "Kanban/정보통신.md",
     "Python/문자열 자료형.md",
     "리스트 자료형.md",
     "Python/숫자형 자료형.md",
@@ -206,16 +209,12 @@
     "Bible Of Java/src/인스턴스의 생성과 사용.md",
     "데이터 모델링.md",
     "Data Modeling/논리 데이터 모델링 이해.md",
-    "Kanban/Data Modeling.md",
     "Data Modeling/관계(Relationship) 정의.md",
     "Bible Of Java/src/객체와 인스턴스.md",
     "Bible Of Java/src/객체의 구성요소 - 속성과 기능.md",
-    "Kanban/MongoDB.md",
     "MongoDB",
     "Kanban",
     "관계의 정의.md",
-    "선택 사양.md",
-    "관계(Relationship) 정의 1.md",
     "Templates",
     "정보통신/Pasted image 20230920125803.png",
     "정보통신",
