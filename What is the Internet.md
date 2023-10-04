@@ -8,5 +8,5 @@ tags:
 
 > [!info]+ Computing Devices
 > - 호스트 = 종단 시스템
-> - 네트워크 앱 실행
+> - [[네트워크 앱]] 실행
 

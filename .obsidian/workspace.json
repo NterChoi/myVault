@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is the Internet.md",
-                "mode": "preview",
+                "file": "네트워크 앱.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is the Internet.md",
+                "file": "네트워크 앱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is the Internet.md",
+                "file": "네트워크 앱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is the Internet.md"
+                "file": "네트워크 앱.md"
               }
             }
           },
@@ -194,9 +194,10 @@
   },
   "active": "f48383f09b0ffc1e",
   "lastOpenFiles": [
+    "What is the Internet.md",
+    "네트워크 앱.md",
     "Pasted image 20231004153613.png",
     "Kanban/정보통신.md",
-    "What is the Internet.md",
     "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md",
     "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md",
     "Python/문자열 자료형.md",
