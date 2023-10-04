@@ -26,9 +26,9 @@ tags:
 > - 네트워크의 네트워크 (네트워크 망)
 > - 상호연결된 [[ISP]]
 
-> [!info]+ protocols
-> 메세지 전송, 수신의 제어
-> - ex : TCP, IP, HTTP, Skype, 802.11
+> [!info]+ [[protocols]]
+> - 메세지 수신, 송신의 제어
+> - e.g : TCP, IP, HTTP, Skype, 802,11
 
 -------------
 
@@ -37,4 +37,8 @@ tags:
 > [!info]+ Infrastructure
 > - 응용 프로그램에 서비스를 제공한다.
 > - 웹, VoIP, 이메일, 게임, 전자상거래, 소셜네트워크
+
+> Provides Programming interface to apps
+> - 인터넷에 연결 하기 위해 앱 프로그램을 주고 받을 수 있는 후크
+> -  우편 서비스와 유사한 서비스 옵션을 제공
 

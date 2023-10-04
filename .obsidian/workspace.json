@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is the Internet.md",
+                "file": "protocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is the Internet.md",
+                "file": "protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is the Internet.md",
+                "file": "protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is the Internet.md"
+                "file": "protocols.md"
               }
             }
           },
@@ -194,11 +194,15 @@
   },
   "active": "f48383f09b0ffc1e",
   "lastOpenFiles": [
-    "네트워크 앱.md",
-    "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md",
+    "img/Pasted image 20230930232553.png",
+    "protocols.md",
+    "img",
+    "img/Pasted image 20231004162714.png",
     "What is the Internet.md",
-    "Pasted image 20231004153613.png",
     "Kanban/정보통신.md",
+    "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md",
+    "네트워크 앱.md",
+    "img/Pasted image 20231004153613.png",
     "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md",
     "Python/문자열 자료형.md",
     "Kanban/Python.md",
@@ -209,8 +213,7 @@
     "리스트 자료형.md",
     "conflict-files-obsidian-git.md",
     "최신 컴퓨터 구조.md",
-    "Pasted image 20230930233745.png",
-    "Pasted image 20230930232553.png",
+    "img/Pasted image 20230930233745.png",
     "Excalidraw/Drawing 2023-09-30 23.28.51.excalidraw.md",
     "Excalidraw",
     "Book/최신 컴퓨터 구조/학습목표_서론.md",
@@ -224,8 +227,6 @@
     "Bible Of Java/src/객체 배열.md",
     "Bible Of Java/src/인스턴스의 생성과 사용.md",
     "데이터 모델링.md",
-    "Data Modeling/논리 데이터 모델링 이해.md",
-    "Data Modeling/관계(Relationship) 정의.md",
     "MongoDB",
     "Kanban",
     "Templates",
@@ -233,7 +234,6 @@
     "정보통신",
     "Bible Of Java/src/context.mdb",
     "context.mdb",
-    "Context",
     "무제 파일 2.canvas",
     "무제 파일.canvas",
     "Pasted image 20230913132022.png",
