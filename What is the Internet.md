@@ -22,5 +22,19 @@ tags:
 > - 패킷(데이터 뭉치)의 전달
 > - 라우터 및 스위치
 
-> [!info]+ Internet : "network of networks"
-> 상호연결된 [[ISP]]
+> [!info]+ Internet
+> - 네트워크의 네트워크 (네트워크 망)
+> - 상호연결된 [[ISP]]
+
+> [!info]+ protocols
+> 메세지 전송, 수신의 제어
+> - ex : TCP, IP, HTTP, Skype, 802.11
+
+-------------
+
+## A Service view
+
+> [!info]+ Infrastructure
+> - 응용 프로그램에 서비스를 제공한다.
+> - 웹, VoIP, 이메일, 게임, 전자상거래, 소셜네트워크
+
