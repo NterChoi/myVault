@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "fa4e65eff58e496c",
+        "id": "2b831d883ccf2c20",
         "type": "tabs",
         "children": [
           {
-            "id": "fd554cea1c3d8c93",
+            "id": "e32a5506e49e00e2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "release-notes",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md"
+                "currentVersion": "1.4.14"
               }
             }
           },
           {
-            "id": "f48383f09b0ffc1e",
+            "id": "ccde0fb54f2d2c78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "protocols.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "protocols.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "protocols.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "protocols.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -188,33 +188,17 @@
       "command-palette:명령어 팔레트 열기": false,
       "zk-prefixer:새로운 유니크 노트 생성": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f48383f09b0ffc1e",
+  "active": "ccde0fb54f2d2c78",
   "lastOpenFiles": [
-    "img/Pasted image 20230930232553.png",
-    "protocols.md",
-    "img",
-    "img/Pasted image 20231004162714.png",
-    "What is the Internet.md",
-    "Kanban/정보통신.md",
-    "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md",
-    "네트워크 앱.md",
-    "img/Pasted image 20231004153613.png",
-    "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md",
-    "Python/문자열 자료형.md",
-    "Kanban/Python.md",
-    "Python/숫자형 자료형.md",
-    "Kanban/MongoDB.md",
-    "Kanban/Data Modeling.md",
-    "데이터 모델링 개요.md",
-    "리스트 자료형.md",
     "conflict-files-obsidian-git.md",
     "최신 컴퓨터 구조.md",
-    "img/Pasted image 20230930233745.png",
+    "Pasted image 20230930233745.png",
+    "Pasted image 20230930232553.png",
     "Excalidraw/Drawing 2023-09-30 23.28.51.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md",
     "Excalidraw",
     "Book/최신 컴퓨터 구조/학습목표_서론.md",
     "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
@@ -227,13 +211,27 @@
     "Bible Of Java/src/객체 배열.md",
     "Bible Of Java/src/인스턴스의 생성과 사용.md",
     "데이터 모델링.md",
+    "Data Modeling/논리 데이터 모델링 이해.md",
+    "Kanban/Data Modeling.md",
+    "Data Modeling/관계(Relationship) 정의.md",
+    "Bible Of Java/src/객체와 인스턴스.md",
+    "Bible Of Java/src/객체의 구성요소 - 속성과 기능.md",
+    "Python/문자열 자료형.md",
+    "Kanban/Python.md",
+    "Python/숫자형 자료형.md",
+    "Kanban/MongoDB.md",
     "MongoDB",
     "Kanban",
+    "관계의 정의.md",
+    "선택 사양.md",
+    "관계(Relationship) 정의 1.md",
+    "Templates/Insert_Callout.md",
     "Templates",
     "정보통신/Pasted image 20230920125803.png",
     "정보통신",
     "Bible Of Java/src/context.mdb",
     "context.mdb",
+    "Context",
     "무제 파일 2.canvas",
     "무제 파일.canvas",
     "Pasted image 20230913132022.png",
