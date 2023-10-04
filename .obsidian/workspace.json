@@ -11,15 +11,24 @@
             "id": "fd554cea1c3d8c93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Python/문자열 자료형.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "f48383f09b0ffc1e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/문자열 자료형.md",
+                "file": "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/문자열 자료형.md",
+                "file": "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/문자열 자료형.md"
+                "file": "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md"
               }
             }
           },
@@ -177,25 +186,27 @@
       "command-palette:명령어 팔레트 열기": false,
       "zk-prefixer:새로운 유니크 노트 생성": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd554cea1c3d8c93",
+  "active": "f48383f09b0ffc1e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md",
+    "Python/문자열 자료형.md",
     "Kanban/Python.md",
     "Python/숫자형 자료형.md",
     "Kanban/MongoDB.md",
     "Kanban/Data Modeling.md",
     "데이터 모델링 개요.md",
     "Kanban/정보통신.md",
-    "Python/문자열 자료형.md",
     "리스트 자료형.md",
     "conflict-files-obsidian-git.md",
     "최신 컴퓨터 구조.md",
     "Pasted image 20230930233745.png",
     "Pasted image 20230930232553.png",
     "Excalidraw/Drawing 2023-09-30 23.28.51.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md",
     "Excalidraw",
     "Book/최신 컴퓨터 구조/학습목표_서론.md",
     "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
@@ -214,7 +225,6 @@
     "Bible Of Java/src/객체의 구성요소 - 속성과 기능.md",
     "MongoDB",
     "Kanban",
-    "관계의 정의.md",
     "Templates",
     "정보통신/Pasted image 20230920125803.png",
     "정보통신",
