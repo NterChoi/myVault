@@ -21,9 +21,9 @@
             "id": "f48383f09b0ffc1e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md"
+                "file": "Kanban/정보통신.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md",
+                "file": "Kanban/정보통신.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md",
+                "file": "Kanban/정보통신.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md"
+                "file": "Kanban/정보통신.md"
               }
             }
           },
@@ -190,10 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f48383f09b0ffc1e",
+  "active": "e72e2f2e4ff96d0f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md",
     "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md",
     "Python/문자열 자료형.md",
     "Kanban/Python.md",
     "Python/숫자형 자료형.md",
