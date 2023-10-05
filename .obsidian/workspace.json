@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is the Internet.md",
-                "mode": "preview",
+                "file": "리스트 자료형.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is the Internet.md",
+                "file": "리스트 자료형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is the Internet.md",
+                "file": "리스트 자료형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is the Internet.md"
+                "file": "리스트 자료형.md"
               }
             }
           },
@@ -196,15 +196,17 @@
   },
   "active": "6dc3d90bbd196222",
   "lastOpenFiles": [
-    "OSI 모델.md",
-    "protocols.md",
+    "Kanban/Python.md",
     "네트워크 앱.md",
+    "데이터 모델링.md",
+    "데이터 모델링 개요.md",
+    "리스트 자료형.md",
+    "protocols.md",
     "Pasted image 20231005090406.png",
+    "OSI 모델.md",
     "Excalidraw/Drawing 2023-09-30 23.28.51.excalidraw.md",
     "정보통신/Pasted image 20230920125803.png",
     "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
-    "리스트 자료형.md",
-    "데이터 모델링 개요.md",
     "img/Pasted image 20231004153613.png",
     "img/Pasted image 20231004162714.png",
     "img/Pasted image 20230930233745.png",
@@ -220,7 +222,6 @@
     "Pasted image 20230930233516.png.md",
     "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md",
     "Book/최신 컴퓨터 구조/학습목표_서론.md",
-    "데이터 모델링.md",
     "Excalidraw",
     "Book.md",
     "Bible Of Java/src/클래스의 또 다른 정의.md",
