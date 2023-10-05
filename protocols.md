@@ -26,4 +26,4 @@ source: https://www.cloudflare.com/ko-kr/learning/network-layer/what-is-a-protoc
 
 ![[Pasted image 20231005090406.png]]
 
->프로토콜은 이러한 네트워킹 기능을 가능하게 한다. 예를 들어, 인터넷 프로토콜(IP)은 데
+>프로토콜은 이러한 네트워킹 기능을 가능하게 한다. 예를 들어, 인터넷 프로토콜(IP)은 데이터 패킷의 출처와 목적지를 표시 하여 데이터 라우팅을 담당한다.
