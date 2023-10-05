@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "protocols.md",
-                "mode": "source",
+                "file": "What is the Internet.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "protocols.md",
+                "file": "What is the Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "protocols.md",
+                "file": "What is the Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "protocols.md"
+                "file": "What is the Internet.md"
               }
             }
           },
@@ -196,10 +196,10 @@
   },
   "active": "6dc3d90bbd196222",
   "lastOpenFiles": [
-    "네트워크 앱.md",
-    "protocols.md",
-    "Pasted image 20231005090406.png",
     "OSI 모델.md",
+    "protocols.md",
+    "네트워크 앱.md",
+    "Pasted image 20231005090406.png",
     "Excalidraw/Drawing 2023-09-30 23.28.51.excalidraw.md",
     "정보통신/Pasted image 20230920125803.png",
     "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
