@@ -14,5 +14,21 @@
       ],
       "key": "2"
     }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
   ]
 }
