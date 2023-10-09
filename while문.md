@@ -62,3 +62,49 @@ treeHit가 10이 되면 "나무 넘어갑니다."라는 문장을 출력한다.
 ... Enter Number: """
 >>>
 ```
+
+이어서 number 변수에 0을 먼저 대입한다.
+이렇게 변수를 먼저 설정해 놓지 않으면 while 문의 조건문인 number != 4에서 변수가 존재하지 않는다는 오류가 발생.
+
+```python
+>>> number = 0
+>>> while number != 4:
+...    print(prompt)
+...    number = int(input())
+...
+
+1. Add
+2. Del
+3. List
+4. Quit
+
+Enter number:
+```
+
+while 문을 보면 number가 4가 아닌 동안 prompt를 출력하고 사용자로부터 번호를 입력 받는다.
+다음 결과 화면처럼 사용자가 값 4를 입력하지 않으면 계속해서 prompt를 출력한다.
+
+> 여기서 number = int(input()) 는 사용자의 숫자 입력을 받아들이는 것이라고만 알아두자.
+> int 나 input 함수에 대한 내용은 뒤에 나오는 내장 함수 부분에서 자세하게 다룬다.
+
+```python
+Enter number:
+1
+
+1. Add
+2. Del
+3. List
+4. Quit
+
+```
+
+4를 입력하면 조건문이 거짓이 되어 while 문을 빠져나가게 된다.
+
+```python
+Enter number:
+4
+>>>
+```
+
+### while 문 강제로 빠져나가기
+--------------------------------
