@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "while문.md",
+                "file": "for문.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "while문.md",
+                "file": "for문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "while문.md",
+                "file": "for문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "while문.md"
+                "file": "for문.md"
               }
             }
           },
@@ -208,6 +208,7 @@
   "active": "6dc3d90bbd196222",
   "lastOpenFiles": [
     "Kanban/Python.md",
+    "for문.md",
     "while문.md",
     "if문.md",
     "Pasted image 20231009141344.png",
@@ -244,7 +245,6 @@
     "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md",
     "Book/최신 컴퓨터 구조/학습목표_서론.md",
     "Excalidraw",
-    "Book.md",
     "Book/최신 컴퓨터 구조",
     "Book",
     "MongoDB",

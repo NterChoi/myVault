@@ -20,7 +20,7 @@ kanban-plugin: basic
 
 - [ ] [[if문]]
 - [ ] [[while문]]
-- [ ] [[for]]
+- [ ] [[for문]]
 
 
 
