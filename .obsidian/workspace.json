@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "네트워크 앱.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dc3d90bbd196222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "for문.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f74a12fb4969600a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-09 14.08.23.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "19b59a143bd1647e",
@@ -205,38 +181,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6dc3d90bbd196222",
+  "active": "2e6ed3860f08b941",
   "lastOpenFiles": [
-    "Kanban/Python.md",
-    "for문.md",
-    "while문.md",
-    "if문.md",
-    "Pasted image 20231009141344.png",
     "네트워크 앱.md",
-    "Excalidraw/Drawing 2023-10-09 14.08.23.excalidraw.md",
-    "Pasted image 20231009141230.png",
+    "리스트 자료형.md",
+    "집합 자료형.md",
     "자료형의 값을 저장하는 공간, 변수.md",
     "불 자료형.md",
-    "집합 자료형.md",
-    "Python/딕셔너리 자료형.md",
+    "while문.md",
+    "if문.md",
+    "for문.md",
     "Python/튜플 자료형.md",
     "Python/리스트 자료형.md",
-    "Python/문자열 자료형.md",
-    "Python/숫자형 자료형.md",
-    "데이터 모델링.md",
-    "데이터 모델링 개요.md",
+    "Python/딕셔너리 자료형.md",
+    "Pasted image 20231009141344.png",
+    "Pasted image 20231009141230.png",
+    "Excalidraw/Drawing 2023-10-09 14.08.23.excalidraw.md",
+    "Kanban/Python.md",
+    "What is the Internet.md",
+    "OSI 모델.md",
     "protocols.md",
     "Pasted image 20231005090406.png",
-    "OSI 모델.md",
     "Excalidraw/Drawing 2023-09-30 23.28.51.excalidraw.md",
     "정보통신/Pasted image 20230920125803.png",
     "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
+    "데이터 모델링 개요.md",
     "img/Pasted image 20231004153613.png",
     "img/Pasted image 20231004162714.png",
     "img/Pasted image 20230930233745.png",
     "img/Pasted image 20230930232553.png",
     "img",
-    "What is the Internet.md",
     "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md",
     "Pasted image 20230930233745.png",
     "최신 컴퓨터 구조.md",
@@ -244,7 +218,9 @@
     "Pasted image 20230930233516.png.md",
     "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md",
     "Book/최신 컴퓨터 구조/학습목표_서론.md",
+    "데이터 모델링.md",
     "Excalidraw",
+    "Book.md",
     "Book/최신 컴퓨터 구조",
     "Book",
     "MongoDB",
