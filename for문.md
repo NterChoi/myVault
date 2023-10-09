@@ -79,4 +79,49 @@ for mark in marks: # 90, 25, 67, 45, 80을 순서대로 mark에 대입
 ### for 문과 continue 문
 --------------------------------
 while 문에서 살펴본 continue 문을 for 문에서도 사용할 수 있다.
-즉, for 문 안의 문장을 수행하는 도중 continue 
+즉, for 문 안의 문장을 수행하는 도중 continue 문을 만나면 for 문의 처음으로 돌아가게 된다.
+
+```python
+marks = [90, 25, 67, 45, 80]
+
+number = 0
+for mark in marks:
+	number = number + 1
+	if mark < 60:
+		continue
+	print("%d번 학생 축하합니다. 합격입니다." % number)	
+```
+
+점수가 60점 이하인 학생인 경우에는 mark < 60이 참이 되어 continue 문이 수행된다.
+따라서 축하 메세지를 출력하는 부분인 print 문을 수행하지 않고 for 문의 처음으로 돌아간다.
+
+### for 문과 함께 자주 사용하는 range 함수
+
+for 문은 숫자 리스트를 자동으로 만들어 주는 range 함수와 함께 사용하는 경우가 많다
+다음은 range 함수의 간단한 사용법이다.
+
+```python
+>>> a = range(10)
+>>> a
+range(0,10) # 0 ~ 9
+```
+
+range(10)은 0부터 10 미만의 숫자를 포함하는 range 객체를 만들어 준다.
+
+시작 숫자와 끝 숫자를 지정하려면 range(시작_숫자, 끝_숫자) 형태를 사용하는데, 이때 끝 숫자는 포함되지 않는다
+
+```python
+>>> a = range(1,11)
+>>> a
+range(1,11) # 1 ~ 10
+```
+
+#### range 함수의 예시 살펴보기
+
+for와 range 함수를 사용하면 1부터 10까지 더하는 것을 다음과 같이 쉽게 구현할 수 있다.
+
+```python
+>>> add = 0
+>>> for i in range(1,11):
+...    add = add 
+```

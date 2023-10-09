@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "19b59a143bd1647e",
@@ -181,7 +182,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e6ed3860f08b941",
+  "active": "e72e2f2e4ff96d0f",
   "lastOpenFiles": [
     "네트워크 앱.md",
     "리스트 자료형.md",
