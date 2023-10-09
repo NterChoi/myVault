@@ -143,3 +143,37 @@ True
 True
 ```
 
+이번에는 우리가 계속 사용해 온 택시 예제에 in을 적용해 보자
+
+>만약 주머니에 돈이 있으면 택시를 타고 가고, 없으면 걸어가라
+
+```python
+>>> pocket = ['paper', 'cellphone', 'money']
+>>> if 'money' in pocket:
+...     print("택시를 타고 가라")
+... else:
+...     print("걸어가라")
+...
+택시를 타고 가라
+>>>
+```
+
+['paper', 'cellphone', 'money'] 리스트 안에 'money'가 있으므로 'money' in pocket 은 참이 된다.
+
+> [!tip]+ 조건문에서 아무 일도 하지 않게 설정하고 싶다면?
+> 조건문의 참, 거짓에 따라 실행할 행동을 정의할 때나 아무런 일도 하지 않도록 설정하고 싶을 때가 있다.
+> 다음 예를 살펴보자.
+> - 주머니에 돈이 있으면 가만히 있고, 주머니에 돈이 없으면 카드를 꺼내라.
+> 
+> 이럴 때 사용하는 것이 바로 pass이다. 위 예를 pass를 적용해서 구현해 보자
+
+```python
+>>> pocket = ['paper', 'money', 'cellphone']
+>>> if 'money' in pocket:
+...     pass 
+... else:
+...     print("카드를 꺼내라")
+...
+```
+
+pocket 리스트 
