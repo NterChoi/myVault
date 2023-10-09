@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "불 자료형.md",
+                "file": "자료형의 값을 저장하는 공간, 변수.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "불 자료형.md",
+                "file": "자료형의 값을 저장하는 공간, 변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "불 자료형.md",
+                "file": "자료형의 값을 저장하는 공간, 변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "불 자료형.md"
+                "file": "자료형의 값을 저장하는 공간, 변수.md"
               }
             }
           },
@@ -198,6 +198,7 @@
   "active": "6dc3d90bbd196222",
   "lastOpenFiles": [
     "Kanban/Python.md",
+    "자료형의 값을 저장하는 공간, 변수.md",
     "불 자료형.md",
     "집합 자료형.md",
     "Python/딕셔너리 자료형.md",
@@ -236,7 +237,6 @@
     "Book",
     "Bible Of Java/객체지향 프로그래밍 I.md",
     "Bible Of Java/src/객체 배열.md",
-    "Bible Of Java/src/인스턴스의 생성과 사용.md",
     "MongoDB",
     "Kanban",
     "Templates",
