@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "9cde65849322694f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f74a12fb4969600a",
             "type": "leaf",
             "state": {
@@ -219,14 +207,14 @@
   },
   "active": "6dc3d90bbd196222",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "네트워크 앱.md",
     "for문.md",
     "Excalidraw/Drawing 2023-10-09 14.08.23.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Kanban/Python.md",
     "while문.md",
     "if문.md",
     "Pasted image 20231009141344.png",
-    "네트워크 앱.md",
     "Pasted image 20231009141230.png",
     "자료형의 값을 저장하는 공간, 변수.md",
     "불 자료형.md",
