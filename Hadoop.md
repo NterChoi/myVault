@@ -34,3 +34,13 @@ tags:
 	2. 가장 마지막 줄에 alias vi = 'vim' 명령어 추가
 	3. source /etc/profile 수정된 내용 centOS에 적용
 
+
+
+### 4. 하둡설치
+-------------------------------------------------
+#### 호스트 네임 설정
+
+> [!note]- 호스트명 변경 명령어
+> - hostnamectl set-hostname "변경할 호스트명"
+> - eg : hostnamectl set -hostname master
+
