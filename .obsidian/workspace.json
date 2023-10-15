@@ -38,6 +38,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "26639845c92b1825",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
         "currentTab": 2
