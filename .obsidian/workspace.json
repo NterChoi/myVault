@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "네트워크란.md",
+                "file": "네트워크와 인터넷 개념 설명.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "네트워크란.md",
+                "file": "네트워크와 인터넷 개념 설명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "네트워크란.md",
+                "file": "네트워크와 인터넷 개념 설명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "네트워크란.md"
+                "file": "네트워크와 인터넷 개념 설명.md"
               }
             }
           },
@@ -195,7 +195,7 @@
   "active": "a8f8c07fc7bb633c",
   "lastOpenFiles": [
     "Kanban/정보통신.md",
-    "네트워크란.md",
+    "네트워크와 인터넷 개념 설명.md",
     "for문.md",
     "하둡 중간고사 예상문제.md",
     "Hadoop.md",
