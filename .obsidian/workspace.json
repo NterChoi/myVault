@@ -43,16 +43,26 @@
             "id": "ba95db62f61bcf5e",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Python.md"
+              }
+            }
+          },
+          {
+            "id": "b8fed6f983757f5f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "네트워크와 인터넷 개념 설명.md",
+                "file": "클래스.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "네트워크와 인터넷 개념 설명.md",
+                "file": "클래스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "네트워크와 인터넷 개념 설명.md",
+                "file": "클래스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "네트워크와 인터넷 개념 설명.md"
+                "file": "클래스.md"
               }
             }
           },
@@ -214,10 +224,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba95db62f61bcf5e",
+  "active": "b8fed6f983757f5f",
   "lastOpenFiles": [
-    "네트워크 앱.md",
+    "Kanban/Python.md",
+    "클래스.md",
     "네트워크와 인터넷 개념 설명.md",
+    "네트워크 앱.md",
     "Excalidraw/Drawing 2023-10-17 05.29.01.excalidraw.md",
     "Pasted Image 20231017053203_786.png",
     "Pasted Image 20231017053001_771.png",
@@ -247,7 +259,6 @@
     "Python/리스트 자료형.md",
     "Python/딕셔너리 자료형.md",
     "Excalidraw/Drawing 2023-10-09 14.08.23.excalidraw.md",
-    "Kanban/Python.md",
     "What is the Internet.md",
     "OSI 모델.md",
     "protocols.md",
