@@ -4,43 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a33798f6ca9ec9e0",
+        "id": "af990ed9c4c99703",
         "type": "tabs",
         "children": [
           {
-            "id": "3d6ef331624fa217",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cc39fdb3725c1b66",
+            "id": "748628bb147a7c22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "네트워크와 인터넷 개념 설명.md",
+                "file": "Data Modeling/논리 데이터 모델링 이해.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a8b466e60a2920c7",
+            "id": "02b410e67afc3dea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "하둡 중간고사 예상문제.md",
+                "file": "데이터 모델링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8ca30aad2ee7407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "네트워크와 인터넷 개념 설명.md",
+                "file": "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "네트워크와 인터넷 개념 설명.md",
+                "file": "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "네트워크와 인터넷 개념 설명.md"
+                "file": "Book/최신 컴퓨터 구조/컴퓨터 시스템의 구성.md"
               }
             }
           },
@@ -202,45 +206,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc39fdb3725c1b66",
+  "active": "f8ca30aad2ee7407",
   "lastOpenFiles": [
+    "하둡 중간고사 예상문제.md",
     "클래스.md",
-    "Pasted Image 20231017053001_771.png",
+    "집합 자료형.md",
+    "자료형의 값을 저장하는 공간, 변수.md",
+    "불 자료형.md",
+    "데이터 모델링 개요.md",
+    "네트워크와 인터넷 개념 설명.md",
+    "네트워크 앱.md",
+    "while문.md",
+    "protocols.md",
+    "img/Pasted image 20231004162714.png",
+    "img/Pasted image 20231004153613.png",
+    "img/Pasted image 20230930233745.png",
+    "img/Pasted image 20230930232553.png",
+    "img",
+    "if문.md",
+    "for문.md",
+    "What is the Internet.md",
+    "Python/튜플 자료형.md",
+    "Python/리스트 자료형.md",
+    "Python/딕셔너리 자료형.md",
     "Pasted image 20231017052151.png",
     "Pasted image 20231017050202.png",
-    "Pasted image 20231017052129.png",
-    "Pasted image 20231017052115.png",
-    "Pasted image 20231017052057.png",
     "Pasted image 20231017050121.png",
     "Pasted image 20231017042857.png",
     "Pasted image 20231017042458.png",
     "Pasted image 20231017041737.png",
-    "Drawing 2023-10-17 05.29.20.excalidraw.md",
-    "if문.md",
+    "OSI 모델.md",
     "Hadoop.md",
-    "하둡 중간고사 예상문제.md",
-    "네트워크와 인터넷 개념 설명.md",
     "Excalidraw/Drawing 2023-10-17 05.29.01.excalidraw.md",
     "Excalidraw/Drawing 2023-10-17 05.28.32.excalidraw.md",
     "Excalidraw/Drawing 2023-10-17 05.27.37.excalidraw.md",
-    "최신 컴퓨터 구조.md",
-    "Kanban/Hadoop.md",
     "Excalidraw/Drawing 2023-10-09 14.08.23.excalidraw.md",
-    "네트워크 앱.md",
-    "for문.md",
-    "conflict-files-obsidian-git.md",
-    "Kanban/Python.md",
-    "while문.md",
-    "자료형의 값을 저장하는 공간, 변수.md",
-    "불 자료형.md",
-    "집합 자료형.md",
-    "Python/딕셔너리 자료형.md",
-    "Python/튜플 자료형.md",
-    "Python/리스트 자료형.md",
-    "Python/문자열 자료형.md",
-    "Python/숫자형 자료형.md",
-    "데이터 모델링.md",
-    "img",
+    "Excalidraw/Drawing 2023-10-04 13.05.51.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-30 23.28.51.excalidraw.md",
+    "최신 컴퓨터 구조.md",
+    "Excalidraw/Drawing 2023-09-30 18.49.38.excalidraw.md",
     "Excalidraw",
     "Book/최신 컴퓨터 구조",
     "Book",
