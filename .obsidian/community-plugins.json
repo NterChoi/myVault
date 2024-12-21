@@ -1,7 +1,7 @@
 [
   "obsidian-tasks-plugin",
-  "calendar",
   "periodic-notes",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar"
 ]
