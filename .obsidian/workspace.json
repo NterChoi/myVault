@@ -43,8 +43,8 @@
               "state": {
                 "file": "Excalidraw/Drawing 2024-11-20 15.27.03.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-20 15.27.03.excalidraw"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -277,8 +277,8 @@
               "state": {
                 "file": "Excalidraw/Drawing 2024-10-09 22.41.05.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-09 22.41.05.excalidraw"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -426,8 +426,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -449,13 +449,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
