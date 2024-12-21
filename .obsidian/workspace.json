@@ -1,0 +1,512 @@
+{
+  "main": {
+    "id": "690470bb12486785",
+    "type": "split",
+    "children": [
+      {
+        "id": "097b0fbfbb0ef7c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66210069361e4cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CPU"
+            }
+          },
+          {
+            "id": "c19131e74763015d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/periodic/daily/2024-11-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-22"
+            }
+          },
+          {
+            "id": "79afb3c4cceee86b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-20 15.27.03.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-20 15.27.03.excalidraw"
+            }
+          },
+          {
+            "id": "261048ccc41a4e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/periodic/daily/2024-11-28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-28"
+            }
+          },
+          {
+            "id": "b6e50a9b2d6a7a68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "f2d56f2ef14a81a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/periodic/daily/2024-12-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-09"
+            }
+          },
+          {
+            "id": "b0e8d36109fc8a15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/periodic/daily/2024-12-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-10"
+            }
+          },
+          {
+            "id": "611c865f55ce89ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/periodic/daily/2024-12-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-10"
+            }
+          },
+          {
+            "id": "ea5aade4073fee16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/periodic/daily/2024-12-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-13"
+            }
+          },
+          {
+            "id": "932153ed9614c0e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/periodic/daily/2024-12-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-17"
+            }
+          },
+          {
+            "id": "3d1da536163b03a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "모노레포란?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "모노레포란?"
+            }
+          },
+          {
+            "id": "9b90fadd7f89b22c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "웹 워커(WebWorker)란?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "웹 워커(WebWorker)란?"
+            }
+          },
+          {
+            "id": "65da848b491eb5bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/periodic/daily/2024-12-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-20"
+            }
+          },
+          {
+            "id": "65d3cafb35a181a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/periodic/daily/2024-12-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-11"
+            }
+          },
+          {
+            "id": "c18cf8c69f71ea34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node.js 패키지 매니저의 차이점.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Node.js 패키지 매니저의 차이점"
+            }
+          },
+          {
+            "id": "ad0e76f1a569a813",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
+            "id": "d167a63c4d360757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "패키지 매니저에 대해 조사하게 된 이유.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "패키지 매니저에 대해 조사하게 된 이유"
+            }
+          },
+          {
+            "id": "c64b2d153d0720e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/periodic/daily/2024-10-08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-08"
+            }
+          },
+          {
+            "id": "5e49d2b6d5c9bf65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CPU"
+            }
+          },
+          {
+            "id": "9c7c0b171130cee0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-09 22.41.05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-09 22.41.05.excalidraw"
+            }
+          },
+          {
+            "id": "a765b1d0e95b67ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/periodic/daily/2024-10-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-15"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84c55d8c20f2f07f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fc4c670556b14d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29f22d10a4028232",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f31e2b8f86688d86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "80ca801afd0fe45d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e6d96a023df5434",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c62fe740b7a5fec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeba5ae6cf6d0d3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Resource/periodic/daily/2024-12-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-12-20"
+            }
+          },
+          {
+            "id": "c250d4b57192369a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Resource/periodic/daily/2024-10-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-10-21"
+            }
+          },
+          {
+            "id": "65de1a3c697b2408",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "46b742383683a4b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Resource/periodic/daily/2024-10-21.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-21"
+            }
+          },
+          {
+            "id": "5acb18373e58786a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "a4e126b1eaddd310",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "65da848b491eb5bd",
+  "lastOpenFiles": [
+    "Redis란?.md",
+    "3. Resource/periodic/daily/2024-12-20.md",
+    "웹 워커(WebWorker)란?.md",
+    "모노레포란?.md",
+    "세션이란?.md",
+    "3. Resource/periodic/daily/2024-12-17.md",
+    "3. Resource/periodic/daily/2024-12-16.md",
+    "3. Resource/periodic/daily/2024-12-15.md",
+    "Excalidraw/Drawing 2024-12-15 15.31.15.excalidraw.md",
+    "3. Resource/periodic/daily/2024-12-14.md",
+    "3. Resource/periodic/daily/2024-12-13.md",
+    "채팅방 입장 시 UnAuthorization 에러 발생 문제.md",
+    "4. Archive/attachment/Pasted image 20241213140804.png",
+    "4. Archive/attachment/Pasted image 20241213124148.png",
+    "4. Archive/attachment/Pasted image 20241213123308.png",
+    "4. Archive/attachment/Pasted image 20241213123252.png",
+    "3. Resource/periodic/daily/2024-12-12.md",
+    "3. Resource/periodic/daily/2024-12-11.md",
+    "3. Resource/periodic/daily/2024-12-10.md",
+    "streaming 이란.md",
+    "Bullet Journal 이란.md",
+    "치지직과 SOOP은 왜 그리드가 필수일까?.md",
+    "3. Resource/periodic/daily/2024-12-09.md",
+    "2. Area/Idea",
+    "3. Resource/periodic/daily/2024-12-08.md",
+    "3. Resource/periodic/daily/2024-12-07.md",
+    "4. Archive/attachment/Pasted image 20241208133801.png",
+    "3. Resource/periodic/daily/2024-12-06.md",
+    "3. Resource/periodic/daily/2024-12-01.md",
+    "3. Resource/periodic/daily/2024-12-02.md",
+    "3. Resource/periodic/daily/2024-12-03.md",
+    "3. Resource/periodic/daily/2024-12-04.md",
+    "4. Archive/attachment/Pasted image 20241204105306.png",
+    "4. Archive/attachment/Pasted image 20241201120052.png",
+    "4. Archive/attachment/Pasted image 20241201112651.png",
+    "4. Archive/attachment/Pasted image 20241130151139.png",
+    "4. Archive/attachment/Pasted image 20241124181306.png",
+    "Excalidraw",
+    "3. Resource/Guitar",
+    "3. Resource/Refernces",
+    "4. Archive/DeepArchive",
+    "4. Archive/Archived Area and Resource",
+    "4. Archive/Archived Projects",
+    "1.Project/NBC-NODE6",
+    "4. Archive",
+    "3. Resource",
+    "Untitled.canvas"
+  ]
+}
